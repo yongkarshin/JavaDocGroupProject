@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"my.uum","l":"AdminGolfer"},{"p":"my.uum","l":"AdminHole"},{"p":"my.uum","l":"AdminTournament"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"my.uum","l":"App"},{"p":"my.uum","l":"Connect"},{"p":"my.uum","l":"Player"},{"p":"my.uum","l":"TelegramBot"},{"p":"my.uum","l":"Validate"}];updateSearchResults();
